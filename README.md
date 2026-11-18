@@ -1,2 +1,7 @@
-# DSC-212-Assignment
-Implementation of recursive spectral modularity partitioning on the Karate Club Graph for multi-community detection and visualization. Includes node centrality analysis, metric evolution across iterations, and insights into community structure.
+# Modularity on the Karate Club Graph
+
+DSC212 Graph Theory assignment implementing recursive spectral modularity partitioning to detect and visualize communities in the Karate Club Graph.
+
+**Tools:** Python, NetworkX, NumPy, SciPy, Matplotlib.
+
+Includes community detection, node centrality analysis, and metric evolution across iterations.
